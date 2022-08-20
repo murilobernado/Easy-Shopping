@@ -21,8 +21,8 @@
 
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">HTML</a>
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS</a>
+- <a href="https://www.figma.com/">Figma</a>
 
-<br>
 <br>
 
 Feito com ♥ por Murilo Bernardo:wave: [Entre em contato!](https://www.linkedin.com/in/murilo-bernardo-39a92a235/)
