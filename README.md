@@ -14,7 +14,7 @@
 
 <h2> :house: Sobre esse projeto</h2>
 
-<p>Esse projeto é para o aprendizado e experiência.</p>
+<p>Agora ficou mais fácil comprar online acesse Easy Shopping 😉 (esse projeto é de uma empresa fictícia, esse projeto serve apenas para o aprendizado e experiência.)</p>
 
 
 <h2> :computer: Tecnologias</h2>
